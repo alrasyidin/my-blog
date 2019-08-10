@@ -46,4 +46,14 @@ img{
   color: #333;
   text-decoration: none;
 }
+
+.navi {
+  list-style: none;
+  padding: 0;
+}
+
+.navi__li {
+  display: inline-block;
+  margin: 0 .5em
+}
 </style>

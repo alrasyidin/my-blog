@@ -30,13 +30,13 @@ query Post ($path: String!) {
 .post-title {
   text-align: center;
   font-size: 20px;
-  line-height: 20px;
+  line-height: 18px;
   padding: 2em 0;
   font-family: "Stylish";
 }
 
 .post-title h5 {
-  font-size: 18px;
+  font-size: 19px;
 }
 
 .post-date {

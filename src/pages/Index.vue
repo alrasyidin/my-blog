@@ -2,6 +2,14 @@
   <Layout>
     <header class="header">
       <g-image src="~/assets/img/photo.jpg" alt="My Photo" width="100" class="photo" blur="50"></g-image>
+      <ul class="navi">
+        <li class="navi__li">
+          <g-link to="/" class="navi__link link">Home</g-link>
+        </li>
+        <li class="navi__li">
+          <g-link to="/about/" class="navi__link link">About</g-link>
+        </li>
+      </ul>
       <h1 v-html="$page.metaData.siteName" />
       <p v-html="$page.metaData.siteDescription" />
     </header>
@@ -58,8 +66,8 @@ query {
 .header p {
   font-weight: 200;
 }
-.photo{
+.photo {
   border-radius: 50%;
-  filter: blur(5px)
+  filter: blur(5px);
 }
 </style>
