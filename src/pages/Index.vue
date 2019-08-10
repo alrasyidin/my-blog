@@ -49,7 +49,7 @@ query {
 <style>
 .header {
   font-family: "Stylish";
-  font-size: 35px;
+  font-size: 20px !important;
   text-align: center;
   line-height: 20px;
   padding: 0.7em;

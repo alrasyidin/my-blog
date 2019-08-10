@@ -6,7 +6,7 @@
         Built with
         <a class="link" href="//gridsome.org">Gridsome</a>
         & Made with ❤️ by
-        <a class="link" href="//id.linkedin.com/in/hamstergeek">hamstergeek</a>
+        <a class="link" href="//id.linkedin.com/in/hamstergeek" target="_blank">hamstergeek</a>
       </p>
     </div>
   </div>
@@ -21,6 +21,10 @@ body {
   line-height: 1.5;
   border: 15px solid #fecd43;
   min-height: 100vh;
+}
+
+img{
+  max-width: 100%;
 }
 
 .layout {
