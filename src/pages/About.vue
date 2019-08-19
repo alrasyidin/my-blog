@@ -30,7 +30,6 @@
 
         <blockquote>"Gantungkan cita-citamu setinggi langit! Bermimpilah jadi presiden. Jika engkau gagal, minimal engkau jadi menteri lah. - Quote ngasal dari saya</blockquote>
       </p>
-
       <p>
         Sekian perkenalan dari saya, saya mah orangnya gitu, photo aja malah di blur. Maafin ya! Tujuannya apaaan? biar ada yang kangen.
       </p>
